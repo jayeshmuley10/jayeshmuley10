@@ -1,4 +1,4 @@
-![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
+![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)
 
 <h1 align="center">Hi 👋, I'm Jayesh Muley</h1>
 <h3 align="center">A passionate developer and competitive programmer from India</h3>
