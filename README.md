@@ -1,4 +1,4 @@
-![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/04d53f80577741.5cf8b5c84827c.gif)
 
 <h1 align="center">Hi 👋, I'm Jayesh Muley</h1>
 <h3 align="center">A passionate developer and competitive programmer from India</h3>
